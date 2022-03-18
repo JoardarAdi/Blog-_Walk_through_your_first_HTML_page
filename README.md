@@ -9,4 +9,6 @@ The repository contains two folders:
 1) assets folder: which contains all the images used in the webpage.
 2) html_files folder: which contains the HTML code for the webpage.
 
+You can visit the webpage via the link: https://os5kit.csb.app/
+
 You can download the repository and see the webpage yourself!
